@@ -1,4 +1,4 @@
-# python_gui_tkinter
+# Copy file/folder from one path to anothe using Python GUI made in tkinter .
 #Install python 3.x and tkinter
 
-This Gui will copy whole folder
+This is demo project to start making gui in python .
